@@ -1,0 +1,8 @@
+.todoItem {
+  padding: 5px;
+  border: 2px solid #000;
+}
+
+.todoItem__done .label{
+  text-decoration: line-through;
+}
