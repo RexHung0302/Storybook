@@ -24,6 +24,6 @@
 
 [Storybook 官方文件](https://storybook.js.org/)
 
-[[Storybook | 說說元件的故事吧！](https://medium.com/%E6%89%8B%E5%AF%AB%E7%AD%86%E8%A8%98/storybook-tutorial-90189a4d0275)
+[Storybook | 說說元件的故事吧！](https://medium.com/%E6%89%8B%E5%AF%AB%E7%AD%86%E8%A8%98/storybook-tutorial-90189a4d0275)
 
 [Storybook 入门指南](https://xiday.com/2020/09/27/storybook/)
